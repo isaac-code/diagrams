@@ -350,6 +350,9 @@
         <mxCell id="7imBiXDdK8WEr4lZSUu7-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9WbZU5UclEW2TFr8tv2--23" target="7imBiXDdK8WEr4lZSUu7-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="7imBiXDdK8WEr4lZSUu7-51" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;We need to factor in Base Price and Price based on payment plan, and also for product that are recurrent payment&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="939" y="168" width="210" height="220" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
