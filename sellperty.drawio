@@ -331,7 +331,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7imBiXDdK8WEr4lZSUu7-43" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Real Estate&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="30" y="40" width="180" height="50" as="geometry" />
+          <mxGeometry x="10" y="40" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7imBiXDdK8WEr4lZSUu7-44" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Ecommerce&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="670" y="40" width="180" height="50" as="geometry" />
