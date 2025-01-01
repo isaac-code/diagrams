@@ -310,22 +310,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7imBiXDdK8WEr4lZSUu7-35" value="Asset Development Media Trail" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="234" y="670" width="210" height="180" as="geometry" />
+          <mxGeometry x="234" y="670" width="186" height="180" as="geometry" />
         </mxCell>
         <mxCell id="7imBiXDdK8WEr4lZSUu7-46" value="Id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="7imBiXDdK8WEr4lZSUu7-35" vertex="1">
-          <mxGeometry y="30" width="210" height="30" as="geometry" />
+          <mxGeometry y="30" width="186" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7imBiXDdK8WEr4lZSUu7-36" value="AssetId" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="7imBiXDdK8WEr4lZSUu7-35" vertex="1">
-          <mxGeometry y="60" width="210" height="30" as="geometry" />
+          <mxGeometry y="60" width="186" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7imBiXDdK8WEr4lZSUu7-40" value="Name" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="7imBiXDdK8WEr4lZSUu7-35" vertex="1">
-          <mxGeometry y="90" width="210" height="30" as="geometry" />
+          <mxGeometry y="90" width="186" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7imBiXDdK8WEr4lZSUu7-37" value="AssetId" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="7imBiXDdK8WEr4lZSUu7-35" vertex="1">
-          <mxGeometry y="120" width="210" height="30" as="geometry" />
+        <mxCell id="ScYcaKlt9CPsBSRHNkR5-32" value="Development Stage &lt;font style=&quot;font-size: 8px;&quot;&gt;(clearing, fencing)&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="7imBiXDdK8WEr4lZSUu7-35">
+          <mxGeometry y="120" width="186" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7imBiXDdK8WEr4lZSUu7-39" value="MediaUrls" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="7imBiXDdK8WEr4lZSUu7-35" vertex="1">
-          <mxGeometry y="150" width="210" height="30" as="geometry" />
+          <mxGeometry y="150" width="186" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7imBiXDdK8WEr4lZSUu7-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7imBiXDdK8WEr4lZSUu7-36" target="9WbZU5UclEW2TFr8tv2--6" edge="1">
           <mxGeometry relative="1" as="geometry" />
