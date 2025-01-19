@@ -166,7 +166,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_s5_7HrUc2ubMlKPMF_D-28" value="Product Purchase" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="670" y="1372" width="251" height="330" as="geometry" />
+          <mxGeometry x="670" y="1399" width="251" height="330" as="geometry" />
         </mxCell>
         <mxCell id="_s5_7HrUc2ubMlKPMF_D-47" value="Id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="_s5_7HrUc2ubMlKPMF_D-28" vertex="1">
           <mxGeometry y="30" width="251" height="30" as="geometry" />
@@ -199,7 +199,7 @@
           <mxGeometry y="300" width="251" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_s5_7HrUc2ubMlKPMF_D-36" value="Invoice" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="990" y="1372" width="131" height="240" as="geometry" />
+          <mxGeometry x="990" y="1399" width="131" height="240" as="geometry" />
         </mxCell>
         <mxCell id="_s5_7HrUc2ubMlKPMF_D-37" value="ProductPurchaseId" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="_s5_7HrUc2ubMlKPMF_D-36" vertex="1">
           <mxGeometry y="30" width="131" height="30" as="geometry" />
@@ -223,7 +223,7 @@
           <mxGeometry y="210" width="131" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_s5_7HrUc2ubMlKPMF_D-71" value="Coupon" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="669" y="850" width="140" height="480" as="geometry" />
+          <mxGeometry x="669" y="850" width="140" height="510" as="geometry" />
         </mxCell>
         <mxCell id="_s5_7HrUc2ubMlKPMF_D-72" value="Id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="_s5_7HrUc2ubMlKPMF_D-71" vertex="1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -269,6 +269,9 @@
         </mxCell>
         <mxCell id="7imBiXDdK8WEr4lZSUu7-104" value="SubscriptionPlanId" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="_s5_7HrUc2ubMlKPMF_D-71" vertex="1">
           <mxGeometry y="450" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KbbLnmjnzOys6Ywp-VBt-2" value="isValid" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="_s5_7HrUc2ubMlKPMF_D-71">
+          <mxGeometry y="480" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_s5_7HrUc2ubMlKPMF_D-90" value="Coupon Assignment" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="960" y="850" width="170" height="210" as="geometry" />
